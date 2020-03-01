@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="600mm"
-   width="629.63416mm"
+   height="400mm"
+   width="419.7561mm"
    version="1.1"
    id="svg57492"
    sodipodi:docname="yoda.svg"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   viewBox="0 0 2617.6915 2494.4883">
+   viewBox="0 0 1745.1277 1662.9922">
   <defs
      id="defs57494" />
   <sodipodi:namedview
@@ -24,8 +24,8 @@
      inkscape:showpageshadow="false"
      id="namedview57484"
      inkscape:zoom="0.35355339"
-     inkscape:cx="71.833157"
-     inkscape:cy="946.39539"
+     inkscape:cx="-390.21604"
+     inkscape:cy="358.28369"
      inkscape:window-width="3440"
      inkscape:window-height="1315"
      inkscape:window-x="0"
@@ -60,9 +60,9 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 1"
-     transform="translate(1.9872103e-8,1425.6981)">
+     transform="translate(-1.244162e-8,594.20191)">
     <g
-       transform="matrix(4.241676,0,0,-4.241676,-1.7381107,1087.8777)"
+       transform="matrix(2.8277839,0,0,-2.8277839,-1.1587404,1081.5152)"
        id="g57490">
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
